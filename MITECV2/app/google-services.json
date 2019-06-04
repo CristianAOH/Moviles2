@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128550616867",
+    "firebase_url": "https://mitec-71ef0.firebaseio.com",
+    "project_id": "mitec-71ef0",
+    "storage_bucket": "mitec-71ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128550616867:android:fa362feaafa8d054",
+        "android_client_info": {
+          "package_name": "itchihuahua.mitec.com.mitec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128550616867-sqmbcic5i845pjutbu2v2jufcv5rjolk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itchihuahua.mitec.com.mitec",
+            "certificate_hash": "dd007101dc5241812af1f5464b6962137b849138"
+          }
+        },
+        {
+          "client_id": "128550616867-4965unmg83skcm8hoa4v3m5tiem1j0jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnaB9tx820yy1nIifveEqQx-dXeNiPkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128550616867-4965unmg83skcm8hoa4v3m5tiem1j0jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
